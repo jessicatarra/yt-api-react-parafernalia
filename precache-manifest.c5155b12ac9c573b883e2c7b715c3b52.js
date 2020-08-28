@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "035303425458f6aa50d8accab4229f6e",
+    "revision": "d3b3e56b4f9d1f06bc7c2759383f4100",
     "url": "/yt-api-react-parafernalia/index.html"
   },
   {
-    "revision": "8cc03692e8410bf776b3",
+    "revision": "c9c0a149e771f7294a8b",
     "url": "/yt-api-react-parafernalia/static/css/main.d5d5ece7.chunk.css"
   },
   {
-    "revision": "e7426c065b55775fd296",
-    "url": "/yt-api-react-parafernalia/static/js/2.9c5068d5.chunk.js"
+    "revision": "f663f1172f8af7d3040f",
+    "url": "/yt-api-react-parafernalia/static/js/2.f7813437.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/yt-api-react-parafernalia/static/js/2.9c5068d5.chunk.js.LICENSE.txt"
+    "url": "/yt-api-react-parafernalia/static/js/2.f7813437.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8cc03692e8410bf776b3",
-    "url": "/yt-api-react-parafernalia/static/js/main.89c01152.chunk.js"
+    "revision": "c9c0a149e771f7294a8b",
+    "url": "/yt-api-react-parafernalia/static/js/main.c9a8b63e.chunk.js"
   },
   {
     "revision": "bd2a31d3dbf893a20447",
