@@ -19,7 +19,7 @@ export default function useVideos(defaultSearchTerm) {
         key: API_KEY
       },
     });
-
+    
     setVideos(response.data.items);
   };
 
