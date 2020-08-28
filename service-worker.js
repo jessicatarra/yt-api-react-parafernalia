@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/yt-api-react-parafernalia/precache-manifest.8179c1d7a79d61866e6c24e59d0e000c.js"
+  "/yt-api-react-parafernalia/precache-manifest.b7fd4faaf5b175769975f1ce00ea1297.js"
 );
 
 self.addEventListener('message', (event) => {
