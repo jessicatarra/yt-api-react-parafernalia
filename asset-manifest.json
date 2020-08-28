@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yt-api-react-parafernalia/static/css/main.d5d5ece7.chunk.css",
+    "main.js": "/yt-api-react-parafernalia/static/js/main.50aa7ab1.chunk.js",
+    "main.js.map": "/yt-api-react-parafernalia/static/js/main.50aa7ab1.chunk.js.map",
+    "runtime-main.js": "/yt-api-react-parafernalia/static/js/runtime-main.068f9bed.js",
+    "runtime-main.js.map": "/yt-api-react-parafernalia/static/js/runtime-main.068f9bed.js.map",
+    "static/js/2.f5712f83.chunk.js": "/yt-api-react-parafernalia/static/js/2.f5712f83.chunk.js",
+    "static/js/2.f5712f83.chunk.js.map": "/yt-api-react-parafernalia/static/js/2.f5712f83.chunk.js.map",
+    "index.html": "/yt-api-react-parafernalia/index.html",
+    "precache-manifest.8179c1d7a79d61866e6c24e59d0e000c.js": "/yt-api-react-parafernalia/precache-manifest.8179c1d7a79d61866e6c24e59d0e000c.js",
+    "service-worker.js": "/yt-api-react-parafernalia/service-worker.js",
+    "static/css/main.d5d5ece7.chunk.css.map": "/yt-api-react-parafernalia/static/css/main.d5d5ece7.chunk.css.map",
+    "static/js/2.f5712f83.chunk.js.LICENSE.txt": "/yt-api-react-parafernalia/static/js/2.f5712f83.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.068f9bed.js",
+    "static/js/2.f5712f83.chunk.js",
+    "static/css/main.d5d5ece7.chunk.css",
+    "static/js/main.50aa7ab1.chunk.js"
+  ]
+}

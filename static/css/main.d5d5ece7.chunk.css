@@ -1,0 +1,2 @@
+html{font-size:16px}:root{--black:#111517;--white:#fff;--background:#fafafa}body{font-family:"Nunito Sans",sans-serif}main{background:#fafafa;background:var(--background);color:#111517;color:var(--black);min-height:100vh}.is-dark-mode{--black:#fff;--white:#273542;--background:#1a2833}.is-light-mode{--black:#111517;--white:#fff;--background:#fafafa}@media (prefers-color-scheme:dark){:root{--black:#fff;--white:#273542;--background:#1a2833}}
+/*# sourceMappingURL=main.d5d5ece7.chunk.css.map */
