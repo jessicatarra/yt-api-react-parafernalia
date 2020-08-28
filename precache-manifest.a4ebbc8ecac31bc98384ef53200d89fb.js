@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3b3e56b4f9d1f06bc7c2759383f4100",
+    "revision": "bf9f7356ce37e3142db8c6de4ff1560e",
     "url": "/yt-api-react-parafernalia/index.html"
   },
   {
-    "revision": "c9c0a149e771f7294a8b",
+    "revision": "773b2567bdc3c4eb9332",
     "url": "/yt-api-react-parafernalia/static/css/main.d5d5ece7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/yt-api-react-parafernalia/static/js/2.f7813437.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9c0a149e771f7294a8b",
-    "url": "/yt-api-react-parafernalia/static/js/main.c9a8b63e.chunk.js"
+    "revision": "773b2567bdc3c4eb9332",
+    "url": "/yt-api-react-parafernalia/static/js/main.2e11d227.chunk.js"
   },
   {
     "revision": "bd2a31d3dbf893a20447",
